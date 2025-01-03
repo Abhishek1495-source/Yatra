@@ -5,6 +5,8 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 import time
 
+from selenium.webdriver.common.alert import Alert
+
 class AutoSuggestionN:
     def Details(self):
 
